@@ -3,7 +3,9 @@
 **`Data Analyst | Python | SQL | Power BI`**
 
 Me chamo Bianca Motta, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, estou no final da graduação de Administração de Empresas pela Universidade Estadual da Paraíba, com foco em análise de dados e inteligência de negócios.
+
 Sou apaixonada por tecnologia e por transformar dados em insights estratégicos que apoiam a tomada de decisão. Tenho experiência com ferramentas como SQL, Python e Power BI, atuando na coleta, tratamento, análise e visualização de dados em projetos práticos.
+
 Aqui no GitHub, compartilho meus projetos e aprendizados na área de dados, explorando desde a construção de pipelines até a criação de dashboards e análises voltadas para o negócio.
 
 <p align="left">
