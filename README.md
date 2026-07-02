@@ -9,5 +9,12 @@ Aqui no GitHub, compartilho meus projetos e aprendizados na área de dados, expl
 ### 🔧 Linguagens e Tecnologias 
 `Python` `SQL` `Power BI` `Pandas` `Excel Avançado` `Google BigQuery` 
 
+### 🎯 O que eu entrego
+ 
+- Construção de pipelines de dados (ETL) para consolidação de fontes diversas
+- Consultas SQL para extração e tratamento de dados
+- Dashboards em Power BI orientados a indicadores de negócio
+- Análises exploratórias com Python (Pandas) para geração de insights
+
 ### 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/biancamottaa/) · [E-mail](biancamottaa6@gmail.com)
