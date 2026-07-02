@@ -7,7 +7,7 @@ Atualmente, estou no ultimo semestre da graduação de Administração de Empres
 Aqui no GitHub, compartilho meus projetos e aprendizados na área de dados, explorando desde a construção de pipelines até a criação de dashboards e análises voltadas para o negócio.
 
 ### 🔧 Linguagens e Tecnologias 
-`Python` `SQL` `Power BI` `Pandas` `Excel Avançado` `Git/GitHub`
+`Python` `SQL` `Power BI` `Pandas` `Excel Avançado` `Google BigQuery` 
 
 ### 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/biancamottaa/) · [E-mail](biancamottaa6@gmail.com)
