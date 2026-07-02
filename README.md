@@ -2,10 +2,8 @@
 
 **`Data Analyst | Python | SQL | Power BI`**
 
-Me chamo Bianca Motta, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, estou no final da graduação de Administração de Empresas pela Universidade Estadual da Paraíba, com foco em análise de dados e inteligência de negócios.
-
-Sou apaixonada por tecnologia e por transformar dados em insights estratégicos que apoiam a tomada de decisão. Tenho experiência com ferramentas como SQL, Python e Power BI, atuando na coleta, tratamento, análise e visualização de dados em projetos práticos.
-
+Me chamo Bianca Motta e sou natural do Rio Grande do Sul. Atualmente, estou no ultimo semestre da graduação de Administração de Empresas pela Universidade Estadual da Paraíba, com foco em análise de dados e Business Intelligence. Trabalho na coleta, tratamento, análise e visualização de dados, transformando informação bruta em insights que apoiam decisões de negócio.
+ 
 Aqui no GitHub, compartilho meus projetos e aprendizados na área de dados, explorando desde a construção de pipelines até a criação de dashboards e análises voltadas para o negócio.
 
 <p align="left">
@@ -18,34 +16,5 @@ Aqui no GitHub, compartilho meus projetos e aprendizados na área de dados, expl
   </a>
 </p>
 
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/power-bi.png" 
-/>
-
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
-<br/>
-<br/>
-
+### 🔧 Linguagens e Tecnologias 
+`Python` `SQL` `Power BI` `Pandas` `Excel Avançado` `Git/GitHub`
