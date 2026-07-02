@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Bianca Motta
+# Olá, sou a Bianca Motta 👋
 
 **`Data Analyst | Python | SQL | Power BI`**
 
